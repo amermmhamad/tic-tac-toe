@@ -2,7 +2,7 @@
 
 A modern, interactive tic-tac-toe game built with React and Vite. Features customizable player names, move history logging, and a clean, responsive interface.
 
-![Tic-Tac-Toe Game](public/Gay-Ahmed.png)
+![Tic-Tac-Toe Game](public/image.png)
 
 ## Features
 
